@@ -1,9 +1,10 @@
 ## Thought Process
-choose what language to use:
-	scala 	- institute uses scala and why I was chosen
-			- not familiar with testing framework
-	c# 		- more recently used
-			- not familiar with testing framework, but Mircosoft documents well (mostly)
+
+	choose what language to use:
+		scala 	- institute uses scala and why I was chosen
+				- not familiar with testing framework
+		c# 		- more recently used
+				- not familiar with testing framework, but Mircosoft documents well (mostly)
 			
 	first attempt:
 		Pick scala
